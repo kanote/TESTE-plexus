@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-""" Plexus (c) 2015 Gonçalo
+""" Plexus (c) 2015 Kanote
    
    This file contains the main menu and the addon directory tree.
    All the necessary modules are present in ~/resources/plexus directory
